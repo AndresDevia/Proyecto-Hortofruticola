@@ -7,7 +7,7 @@
 
 .Contenedor {
  border: solid 1px black; 
- width: 50%;
+ width:200%;
  max-width: 1000px;
  magin:auto;
  box-sizzing: border-box;
