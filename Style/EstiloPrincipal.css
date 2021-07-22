@@ -54,21 +54,21 @@ border:none;
 }
 
 .nav_link {
- background: #D35400;
+ background: Green;
  color:white;
  padding:5px;
  border-radius:3px;
 }
 
 .nav_link_palote {
- background: #D35400;
+ background: Green;
  color:white;
  padding:5px;
  border-radius:3px;
 }
 
 .nav_link_button {
- background: #D35400;
+ background: Green;
  color:white;
  padding:5px;
  border-radius:3px;
@@ -79,7 +79,7 @@ border:none;
 .galeria {
   width: 100%;
   height:400px;
-  background: #D35400;
+  background: Orange;
   display: flex;
   justify-content: center;
   align-items: center;
