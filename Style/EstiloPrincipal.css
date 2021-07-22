@@ -105,7 +105,24 @@ border:none;
 .elemento3:checked ~ .galeria_contenedor {
   transform: translateX(-1200px);
 }
-.controles { 
+
+label for="A"{
+  width: 100%;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: -26px;
+}
+label for="B"{
+  width: 100%;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: -26px;
+}
+label for="C"{
   width: 100%;
   height: 30px;
   display: flex;
