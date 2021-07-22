@@ -120,6 +120,7 @@ label{
   border-radius: 100px;
   background: black;
   display: block;
+  position: Relative
   cursor: pointer;
 }
 
