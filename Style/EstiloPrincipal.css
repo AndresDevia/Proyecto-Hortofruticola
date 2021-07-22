@@ -54,21 +54,21 @@ border:none;
 }
 
 .nav_link {
- background: Green;
+ background: Light green;
  color:white;
  padding:5px;
  border-radius:3px;
 }
 
 .nav_link_palote {
- background: Green;
+ background: Light green;
  color:white;
  padding:5px;
  border-radius:3px;
 }
 
 .nav_link_button {
- background: Green;
+ background: Light green;
  color:white;
  padding:5px;
  border-radius:3px;
@@ -79,7 +79,7 @@ border:none;
 .galeria {
   width: 100%;
   height:400px;
-  background: Orange;
+  background: Dark orange;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -120,7 +120,7 @@ label{
 	width: 20px;
 	height: 20px;
 	border-radius: 100px;
-	background: green;
+	background: Light green;
 	display: block;
 	cursor: pointer;
 }
