@@ -107,7 +107,7 @@ border:none;
 }
 .controles { 
   width: 100%;
-  height: 50px;
+  height: 30px;
   display: flex;
   justify-content: center;
   position: relative;
@@ -118,7 +118,7 @@ label{
   width: 20px;
   height: 20px;
   border-radius: 100px;
-  background: green;
+  background: white;
   display: block;
   cursor: pointer;
 }
