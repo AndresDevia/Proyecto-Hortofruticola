@@ -136,6 +136,7 @@ height: auto;
 }
 
 .tienda article{
+background: #32CD32;
 display: flex;
 justify-content: center;
 align-content: space-between;
