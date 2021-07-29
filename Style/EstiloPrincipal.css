@@ -129,7 +129,7 @@ display: grid;
 grid-template: repeat(3, 300px) / 300px;
 justify-content: center;
 grid-gap: 16px;
-width: 1000px;
+width: 100%;
 height: auto;
 
 
