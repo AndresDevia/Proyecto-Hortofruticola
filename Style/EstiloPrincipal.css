@@ -193,7 +193,7 @@ overflow: Hidden;
 
 /*responsive desig */
 
-@media screen and (max-widht: 600px){
+@media screen and (max-width: 600px){
   .tienda{
     grid-template: repeat(1, 300px) / repeat(1, 300px) ;
   }
