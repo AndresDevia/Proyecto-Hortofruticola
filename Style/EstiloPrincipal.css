@@ -126,7 +126,7 @@ cursor: pointer;
 }
 .tienda{
 display: grid;
-grid-template: repeat(3, 300px) / 300px;
+grid-template: repeat(3, 300px) / repeat(3, 300px);
 justify-content: center;
 grid-gap: 16px;
 width: 100%;
