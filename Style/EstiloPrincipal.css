@@ -124,7 +124,7 @@ background: #32CD32;
 display: block;
 cursor: pointer;
 }
-//***********************************************//
+/***********************************************/
 .tienda{
 display: grid;
 grid-template: repeat(3, 300px) / repeat(3, 300px);
@@ -170,7 +170,7 @@ overflow: Hidden;
   text-align: justify;  
 }
 
-//********************//
+/********************/
 
 .espacio{
   position: relative;
