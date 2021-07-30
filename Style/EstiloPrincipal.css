@@ -55,21 +55,21 @@ border:none;
 
 .nav_link {
  background: #32CD32;
- color: black;
+ color: white;
  padding:5px;
  border-radius:3px;
 }
 
 .nav_link_palote {
  background: #32CD32;
- color: black;
+ color: white;
  padding:5px;
  border-radius:3px;
 }
 
 .nav_link_button {
  background: #32CD32;
- color: black;
+ color: white;
  padding:5px;
  border-radius:3px;
 }
@@ -190,7 +190,7 @@ background: white;
 
 .PiePágina footer{
   text-align: center;
-  color: black;
+  color: white;
 }
 
 /*responsive desig */
