@@ -55,21 +55,21 @@ border:none;
 
 .nav_link {
  background: #32CD32;
- color:white;
+ color: black;
  padding:5px;
  border-radius:3px;
 }
 
 .nav_link_palote {
  background: #32CD32;
- color:white;
+ color: black;
  padding:5px;
  border-radius:3px;
 }
 
 .nav_link_button {
  background: #32CD32;
- color:white;
+ color: black;
  padding:5px;
  border-radius:3px;
 }
@@ -145,7 +145,7 @@ flex-flow: wrap;
 border: solid;
 border-radius: 15px;
 overflow: Hidden;
-background: White;
+background: black;
 }
 
 .tienda img {
@@ -190,7 +190,7 @@ background: White;
 
 .PiePágina footer{
   text-align: center;
-  color:White;
+  color: black;
 }
 
 /*responsive desig */
