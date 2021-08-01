@@ -20,33 +20,28 @@
   justify-content: space-between;
   position: relative;
   height:100px
-  background: Yellow;
 }
 
 .Cabecera figure {
  width: 130px;
  margin: auto;
- background: Yellow;
 }
 
 .Cabecera img {
  width:130px; 
  height:100px;
- background: Yellow;
 }
 
 .cabecera_h1 {
  position:absolute;
  top: 40px;
  left:150px;
- background: Yellow;
 }
 
 .cabecera_frase {
  position:absolute;
  top:75px;
  left:150;
- background:Yellow;
 }
 
 .nav {
