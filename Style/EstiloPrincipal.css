@@ -12,6 +12,7 @@
  margin:auto;
  box-sizzing: border-box;
  overflow:hidden;
+ background: #E67E22;
 }
 
 
@@ -20,6 +21,7 @@
   justify-content: space-between;
   position: relative;
   height:100px
+  background: white;
 }
 
 .Cabecera figure {
