@@ -20,16 +20,19 @@
   justify-content: space-between;
   position: relative;
   height:100px
+  background: Yellow;
 }
 
 .Cabecera figure {
  width: 130px;
  margin: auto;
+ background: Yellow;
 }
 
 .Cabecera img {
  width:130px; 
  height:100px;
+ background: Yellow;
 }
 
 .cabecera_h1 {
