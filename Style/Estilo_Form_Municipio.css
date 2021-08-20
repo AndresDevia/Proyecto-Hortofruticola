@@ -9,7 +9,7 @@ background: #204862;
 }
 
 .Contenedor {
-  color: #fff
+  color: #fff;
   text-align: center;
 }
 
@@ -30,7 +30,7 @@ background: #204862;
  font_size: 30px;
  border-top-left-radius: 7px;
  border-top-rigth-radius: 7px;
- border-top-bottom: 10px solid crimson;
+ border-bottom: 10px solid crimson;
 
  
 .Contenedor-input {
