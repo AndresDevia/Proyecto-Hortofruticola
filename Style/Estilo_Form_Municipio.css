@@ -1,1 +1,69 @@
+/* {
+box-sizing: border-box;
+}
 
+body {
+margin: 0;
+font-familiy: sans-serif;
+background: #204862
+}
+
+.Contenedor-input {
+ padding: 5px 10px;
+ display: flex;
+ flex-wrap: wrap;
+ justify-content; space-between;
+}
+
+.Tabla_Municipios {
+ text-align: left;
+ border: 1px solid darkgray;
+ width: 100%;
+}
+
+.Tabla_Botones {
+ text:align: center;
+ border: 1px solid darkgray;
+}
+
+.input -50 {
+ width: 50%;
+}
+
+.btn-Insertar {
+ background: Crimson;
+ color: #fff;
+ margin: auto;
+ padding: 10px 40px;
+ cursor: pointer;
+ border-radius: 7px;
+}
+
+.btn-Insertar: active {
+ transform: scale (1.05);
+}
+
+.btn-Modificar: active {
+ transform: scale (1.05);
+ background: #188B37;
+}
+
+.btn-Buscar: active {
+ transform: scale (1.05);
+ background: #202C83;
+}
+
+.btn-Eliminar: active {
+ transform: scale (1.05);
+ background: #F05D00;
+}
+
+.btn-Limpiar: active {
+ transform: scale (1.05);
+ background: #Black;
+}
+
+.btn-Retornar: active {
+ transform: scale (1.05);
+ background: #202X83;
+}
