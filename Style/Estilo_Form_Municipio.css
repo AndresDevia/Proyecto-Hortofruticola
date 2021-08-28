@@ -21,7 +21,7 @@ background: #204862;
  border-radius: 7px;
 }
 
-.titulo-Form-Municipio {
+.titulo_Form_Municipio {
  background: #4E94AB;
  color: #fff;
  padding: 8px;
@@ -40,7 +40,7 @@ background: #204862;
  justify-content: space-between;
 }
 
-.Tabla_Municipios {
+.Tabla-Municipios {
  text-align: left;
  border: 1px solid darkgray;
  width: 100%;
