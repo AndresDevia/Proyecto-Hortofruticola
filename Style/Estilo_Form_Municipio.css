@@ -11,6 +11,7 @@ background: #E67E22;
 .Contenedor {
   color: #E67E22;
   text-align: center;
+  justify-content: center;
 }
 
 .Form-Municipio {
