@@ -5,11 +5,11 @@ box-sizing: border-box;
 body {
 margin: 0;
 font-familiy: sans-serif;
-background: #204862;
+background: #E67E22;
 }
 
 .Contenedor {
-  color: #fff;
+  color: #E67E22;
   text-align: center;
 }
 
@@ -22,7 +22,7 @@ background: #204862;
 }
 
 .Titulo-Form-Municipio {
- background: #4E94AB;
+ background: #32CD32;
  color: #fff;
  padding: 8px;
  text-align: center;
