@@ -172,6 +172,19 @@ background: white;
   text-align: justify;  
 }
 
+.btn_Municipios {
+ background: #188B37;
+ color: #fff;
+ margin: auto;
+ padding: 10px 40px;
+ cursor: Pointer;
+ border-radius: 7px;
+}
+
+.btn_Municipios: active {
+ transform: scale(1.05);
+}
+
 /********************/
 
 .espacio{
@@ -239,18 +252,6 @@ background: white;
 }
 }
 
-.btn_Municipios {
- background: #188B37;
- color: #fff;
- margin: auto;
- padding: 10px 40px;
- cursor: Pointer;
- border-radius: 7px;
-}
-
-.btn_Municipios: active {
- transform: scale(1.05);
-}
 
 
 
