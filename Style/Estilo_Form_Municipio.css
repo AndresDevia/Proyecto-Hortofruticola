@@ -8,7 +8,7 @@ body  {
   background: #204862;
 }
 
-.form-municipio {
+.Form-Municipio {
   width: 60%;
   max-width: 500px;
   margin: auto;
@@ -16,7 +16,7 @@ body  {
   border-radius: 7px;
 }
 
-.titulo-form-municipio {
+.Titulo-Form-Municipio {
   background: #4E94AB;
   color: #fff;
   padding: 8px;
@@ -28,14 +28,14 @@ body  {
   border-bottom: 10px solid crimson;
 }
 
-.contenedor-input {
+.Contenedor-input {
   padding: 5px 10px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between; 
 }
 
-.tabla-municipios {
+.Tabla-Municipios {
   
   text-align: left;
   border: 1px solid darkgray;
@@ -44,7 +44,7 @@ body  {
 }
 
 
-.tabla_botones {
+.Tabla_Botones {
   text-align: center;
   border: 1px solid darkgray;  
 }
@@ -57,7 +57,7 @@ body  {
   width: 70%;
 }
 
-.btn-insertar {
+.btn-Insertar {
   background: crimson;
   color: #fff;
   margin: auto;
@@ -67,5 +67,70 @@ body  {
 }
 
 .btn-insertar: active {
+  transform: scale(1.05);
+}
+
+.btn-Modificar {
+  background: #188B37;
+  color: #fff;
+  margin: auto;
+  padding: 19px 40px;
+  cursor: pointer;
+  border-radius: 7px;
+}
+
+.btn-Modificar: active {
+  transform: scale(1.05);
+}
+
+.btn-Buscar {
+  background: #202C83;
+  color: #fff;
+  margin: auto;
+  padding: 19px 40px;
+  cursor: pointer;
+  border-radius: 7px;
+}
+
+.btn-Buscar: active {
+  transform: scale(1.05);
+}
+
+.btn-Eliminar {
+  background: #F05D00;
+  color: #fff;
+  margin: auto;
+  padding: 19px 40px;
+  cursor: pointer;
+  border-radius: 7px;
+}
+
+.btn-Eliminar: active {
+  transform: scale(1.05);
+}
+
+.btn-Limpiar {
+  background: Black;
+  color: #fff;
+  margin: auto;
+  padding: 19px 40px;
+  cursor: pointer;
+  border-radius: 7px;
+}
+
+.btn-Limpiar: active {
+  transform: scale(1.05);
+}
+
+.btn-Retornar {
+  background: #202C83;
+  color: #fff;
+  margin: auto;
+  padding: 19px 40px;
+  cursor: pointer;
+  border-radius: 7px;
+}
+
+.btn-Retornar: active {
   transform: scale(1.05);
 }
